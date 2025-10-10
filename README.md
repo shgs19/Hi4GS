@@ -6,7 +6,8 @@ The **Hi4GS** package provides a unified and modular toolkit that integrates mul
 
 For model training, the framework supports cross-validation and multi-metric evaluation, and it is deeply integrated with **mlr3** and **BWGS**, enabling performance comparisons between statistical models and machine learning models. By providing functionalities such as feature union, ranking, and weight optimization, Hi4GS achieves stable, interpretable, and efficient feature selection across datasets of different species and traits.
 
-**Citation** Shanghui Zhang, Mei Song, Xianggeng Huang, Xinping Zhang, Ran Qin, Chunhua Zhao, Yongzhen Wu, Han Sun, Shusong Zheng, Lingrang Kong, Jun Zheng, Guangchen Liu, Feng Chen, Fa Cui, Hi4GS: an interpretable hybrid feature selection framework for genomic selection and application in identifying key SNPs for wheat yield, 2025,in submiting.
+**Citation** Shanghui Zhang, Mei Song, Jun Zheng, Xianggeng Huang, Xinping Zhang, Ran Qin, Chunhua Zhao, Yongzhen Wu, Han Sun, Guangchen Liu1, Feng Chen, Shusong Zheng,  Fa Cui, Hi4GS: an interpretable hybrid feature selection framework for genomic selection and application in identifying significant SNPs for wheat yield, 2025,in submiting.
+
 
 **Suggestions and Problem Feedback** liuguangchen@ldu.edu.cn
 
