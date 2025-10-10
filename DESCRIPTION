@@ -1,0 +1,27 @@
+Package: Hi4GS
+Title: Feature Importance Analysis Suite
+Version: 0.1.0
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Author: Shanghui Zhang
+Maintainer: Shanghui Zhang <h76082814437@gmail.com>
+Description: Comprehensive feature selection and importance analysis
+    toolkit with multiple algorithms integration.
+License: GPL-3
+Depends: R (>= 4.3.1)
+Imports: mlr3learners(>= 0.10.0), mlr3extralearners(>= 0.8.0.9000),
+        mlr3 (>= 0.23.0), mlr3filters (>= 0.8.1), mlr3mbo (>= 0.2.9),
+        mlr3tuning (>= 1.3.0), tidyverse (>= 2.0.0), writexl (>=
+        1.5.2), future(>= 1.33.2), data.table(>= 1.15.4), GAPIT (>=
+        3.5.0), Boruta (>= 8.0.0), MXM (>= 1.4.4), abess (>= 0.4.8),
+        cluster(>= 2.1.6), mclust(>= 6.1.1), prioritylasso(>= 0.3.1),
+        praznik(>= 11.0.0), pryr(>= 0.1.6), withr
+Remotes: mlr-org/mlr3extralearners, mensxmachina/MXM-R-Package,
+        jiabowang/GAPIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+LazyData: true
+NeedsCompilation: no
+Packaged: 2025-10-09 06:19:16 UTC; Archer
