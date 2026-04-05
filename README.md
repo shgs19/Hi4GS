@@ -47,6 +47,7 @@ Ensure your genotype and phenotype data are prepared in data frame format.
   - A data frame required when using the GWAS algorithm. 
   - It must have three columns: the first for SNP identifiers, the second for chromosome numbers, and the third for the corresponding physical positions.
 - **Example Data Source:** The data used in this project comes from the WW1768 winter wheat dataset.
+  - Reference: D.N. Lozada, B.P. Ward, A.H. Carter, Gains through selection for grain yield in a winter wheat breeding program, PLoS One 15 (2020) e0221603.
 
 
 ### 2. R package environment configuration
